@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Figtree"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "blog-preview-card-main"
+	}
+}
